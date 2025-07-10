@@ -1,0 +1,11 @@
+path: C:/INTERNSHIP/traffic_light_detection/traffic_light_data
+train: C:/INTERNSHIP/traffic_light_detection/traffic_light_data/images/train
+val: C:/INTERNSHIP/traffic_light_detection/traffic_light_data/images/val
+
+names:
+  0: stop
+  1: go
+  2: warning
+  3: warningLeft
+  4: goLeft
+  5: stopLeft
